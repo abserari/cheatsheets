@@ -4,10 +4,10 @@
 
 This repository supports contribution using [gitpod](https://gitpod.io) which is online IDE using [Theia](https://github.com/eclipse-theia/theia).
 
-To open-up the environment simple natigate on https://gitpod.io/#https://github.com/rstacruz/cheatsheets
+To open-up the environment simple natigate on https://gitpod.io/#https://github.com/abserari/cheatsheets
 
 Or using a button:<br>
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rstacruz/cheatsheets)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/abserari/cheatsheets)
 
 ### Preview built website
 
